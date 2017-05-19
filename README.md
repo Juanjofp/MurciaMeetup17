@@ -1,2 +1,3 @@
 # MurciaMeetup17
-Taller android Murcia Meetup 2017
+![Image of MurciaMeetup17](https://raw.githubusercontent.com/Juanjofp/MurciaMeetup17/master/mmd17.png)
+
