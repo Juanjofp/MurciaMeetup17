@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MyLibrary</string>
+    <string name="msg_loading_books">Loading books</string>
+    <string name="msg_login_required">Login is required</string>
+    <string name="login_activity_name">Login</string>
+    <string name="tv_username_login_activity">Username:</string>
+    <string name="et_username_login_activity">type your username</string>
+    <string name="tv_password_login_activity">Password:</string>
+    <string name="et_password_login_activity">Type your password</string>
+    <string name="bt_submit_login_activity">Login</string>
+    <string name="invalid_username">Invalid username, min 3 chars</string>
+    <string name="invalid_password">Invalid password, min 6 chars</string>
+    <string name="invalid_credentials">Your credentials are invalid</string>
+    <string name="invalid_book_id">Invalid book id</string>
+</resources>

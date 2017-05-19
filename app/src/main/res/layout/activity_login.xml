@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="@dimen/padding_activity"
+    android:orientation="vertical"
+    tools:context="com.juanjofp.meetup.mylibrary.LoginActivity">
+
+    <TextView
+        android:layout_marginTop="@dimen/margin_top_login_activity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/tv_username_login_activity"/>
+
+    <EditText
+        android:id="@+id/etUsernameLoginActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/et_username_login_activity"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_top_password_login_activity"
+        android:text="@string/tv_password_login_activity"/>
+
+    <EditText
+        android:id="@+id/etPasswordLoginActivity"
+        android:inputType="textPassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="@string/et_password_login_activity"/>
+
+    <Button
+        android:id="@+id/btSubmitLoginActivity"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/bt_submit_login_activity"/>
+
+</LinearLayout>
